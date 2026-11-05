@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+requests
+beautifulsoup4
+lxml
+spacy
+textblob
+Pillow
+fastapi
+uvicorn
+jupyter
+ipykernel
+torch
+torchvision
